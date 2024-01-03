@@ -9,4 +9,4 @@ To learn more about the mechanics of the project, please reference the project r
 
 ### Further Notes
 
-*This project was created for the Final Project in the WPI course RBE3001 Unified Robotics III as taught by Professor Mahdi Agheli in A Term of the 2023 school year. The code has been developed in MATLAB to run with the Open Manipulator X arm. This code was created by Shivangi Sirsiwal, Vincent Pu, as well as Matheos Simatriakis as a part of project group 22.*
+*This project was created for the Final Project in the WPI course RBE3001 Unified Robotics III as taught by Professor Mahdi Agheli in A Term of the 2023 school year. The code has been developed in MATLAB to run with the Open Manipulator X arm. This code was created by Shivangi Sirsiwal, Vincent Pu, as well as Matheos Simantriakis as a part of project group 22.*
