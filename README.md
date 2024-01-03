@@ -1,7 +1,5 @@
 # ball_sorting_arm_system
 
-Watch the system in action: https://youtu.be/VWZ0L2ZqUbQ?si=XmgezPGOHi5uB_SR
-
-
-https://github.com/Shivangi-Sirsiwal/ball_sorting_arm_system/assets/152037538/34f0aa13-d240-4a35-84dc-de9a65985c6c
+Watch the system in action:
+https://github.com/Shivangi-Sirsiwal/ball_sorting_arm_system/assets/152037538/c7c0a0ed-64dc-457d-9f98-ffa4080a62b7
 
